@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Paytm Gateway Sample</string>
+    <string name="merchantID">KapilC22337440362583</string>
+    <string name="merchantKey">#DiFlXaNNjFRnAiG</string>
+    <string name="orderID">123456</string>
+
+</resources>
